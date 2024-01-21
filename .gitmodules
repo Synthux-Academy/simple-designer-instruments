@@ -4,3 +4,6 @@
 [submodule "official/audrey-ii/lib/libDaisy"]
 	path = official/audrey-ii/lib/libDaisy
 	url = https://github.com/electro-smith/libDaisy.git
+[submodule "official/spotykach/lib/libDaisy"]
+	path = official/spotykach/lib/libDaisy
+	url = https://github.com/electro-smith/libDaisy.git

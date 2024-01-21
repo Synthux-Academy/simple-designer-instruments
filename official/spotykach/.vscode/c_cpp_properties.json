@@ -1,0 +1,23 @@
+{
+    "configurations": [
+        {
+            "cStandard": "c17",
+            "compilerPath": "/usr/local/bin/arm-none-eabi-gcc",
+            "cppStandard": "c++17",
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "includePath": [
+                "${workspaceFolder}/**",
+                "${workspaceFolder}/lib/libdaisy//**",
+                "/Library/Developer/CommandLineTools/SDKs/MacOSX12.3.sdk/usr/include/**"
+            ],
+            "name": "macOS",
+            "macFrameworkPath": [],
+            "configurationProvider": "ms-vscode.makefile-tools"
+        }
+    ],
+    "version": 4
+}
