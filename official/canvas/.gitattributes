@@ -1,5 +1,0 @@
-*.pdf filter=lfs diff=lfs merge=lfs -text
-.png filter=lfs diff=lfs merge=lfs -text
-*.jpg filter=lfs diff=lfs merge=lfs -text
-hardware/stl/* filter=lfs diff=lfs merge=lfs -text
-hardware/3mf/* filter=lfs diff=lfs merge=lfs -text
