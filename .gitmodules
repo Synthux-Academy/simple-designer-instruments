@@ -1,0 +1,6 @@
+[submodule "official/audrey-ii/lib/DaisySP"]
+	path = official/audrey-ii/lib/DaisySP
+	url = https://github.com/electro-smith/DaisySP.git
+[submodule "official/audrey-ii/lib/libDaisy"]
+	path = official/audrey-ii/lib/libDaisy
+	url = https://github.com/electro-smith/libDaisy.git
