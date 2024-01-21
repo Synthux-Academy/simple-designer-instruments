@@ -1,0 +1,14 @@
+# Use the Google style in this project.
+BasedOnStyle: Google
+
+IncludeBlocks: Merge
+
+# Format raw string literals with a `pb` or `proto` tag as proto.
+RawStringFormats:
+- Language: TextProto
+  Delimiters:
+  - 'pb'
+  - 'proto'
+  BasedOnStyle: Google
+
+CommentPragmas: '(@copydoc)'
