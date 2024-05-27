@@ -1,5 +1,8 @@
 # Canvas
 
+## QUICK INSTALL
+Download the [Binary file](https://github.com/Synthux-Academy/simple-designer-instruments/raw/main/official/canvas/canvas.bin) and flash using the [Daisy Seed web programmer](https://electro-smith.github.io/Programmer/)
+
 ![Canvas Picture](resources/pictures/DSC01556-post.png)
 
 # Description
