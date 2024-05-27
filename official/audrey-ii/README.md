@@ -43,7 +43,7 @@ growing/saturating feedback, for creative distorted warping and warbling possibi
 The easiest way to program an assembled Audrey II is with a pre-built binary file.
 This does not require setting up the toolchain or compiling any code.
 
-1. Download the latest `.bin` file from the [releases page](https://github.com/infrasonicaudio/audrey-ii-simple/releases)
+1. Download the [latest `.bin` file](https://github.com/Synthux-Academy/simple-designer-instruments/raw/main/official/audrey-ii/audrey-ii.bin).
 2. Go to the [Daisy Web Programmer](https://electro-smith.github.io/Programmer/) in Google Chrome
 3. Connect the Daisy Seed to your computer with a USB cable (double check that the cable you use actually carries data, not just power)
 4. Follow the Help instructions at the top to put the Daisy Seed into bootloader mode and connect it to the web programmer
