@@ -35,7 +35,7 @@ maximum delay time and a feedback control designed to deliberately produce infin
 growing/saturating feedback, for creative distorted warping and warbling possibilities.
 
 ## Simple Kit Build Guide
-
+[![YouTube Video](https://img.youtube.com/vi/icYm5FpZtrU/0.jpg)](https://youtu.be/icYm5FpZtrU)
 ### [🛠️ Build Guide](https://github.com/infrasonicaudio/audrey-ii-simple/wiki/Building-the-Audrey-II-Simple-Kit)
 
 ## Flashing the Daisy Seed
