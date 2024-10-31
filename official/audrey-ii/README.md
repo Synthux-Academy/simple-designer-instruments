@@ -3,7 +3,8 @@
 Audrey II is a droning horroscape generator instrument for the Daisy Seed + SynthUX Simple platform
 based on simple physical modeling principles.
 
-<img src="doc/audrey-panel-cheeks.jpg" width="480">
+<img src="https://github.com/user-attachments/assets/22d8ac7f-44b9-4f52-a892-b06d96a7e520" width="480">
+
 
 _The vortex beckons you. With trembling fingers, you ever so gently turn the mysterious knob within.
 Gently, at first, the engine stirs and the arcane beast within awakens. Your pulse quickens.
@@ -35,6 +36,8 @@ maximum delay time and a feedback control designed to deliberately produce infin
 growing/saturating feedback, for creative distorted warping and warbling possibilities.
 
 ## Simple Kit Build Guide
+### Click the image below to watch the video tutorial:
+[![YouTube Video](https://github.com/user-attachments/assets/f166ee74-0fbe-42b5-8a94-da846e82e30a)](https://youtu.be/icYm5FpZtrU)
 
 ### [🛠️ Build Guide](https://github.com/infrasonicaudio/audrey-ii-simple/wiki/Building-the-Audrey-II-Simple-Kit)
 
