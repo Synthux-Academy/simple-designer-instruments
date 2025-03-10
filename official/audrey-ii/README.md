@@ -3,7 +3,8 @@
 Audrey II is a droning horroscape generator instrument for the Daisy Seed + SynthUX Simple platform
 based on simple physical modeling principles.
 
-<img src="https://github.com/user-attachments/assets/22d8ac7f-44b9-4f52-a892-b06d96a7e520" width="480">
+<img src="https://github.com/user-attachments/assets/cb0d2e1b-73fd-4222-9e5a-a908479afa71" width="700">
+
 
 
 _The vortex beckons you. With trembling fingers, you ever so gently turn the mysterious knob within.
@@ -36,16 +37,19 @@ maximum delay time and a feedback control designed to deliberately produce infin
 growing/saturating feedback, for creative distorted warping and warbling possibilities.
 
 ## Simple Kit Build Guide
-### Click the image below to go to the build manual, including video tutorials and more:
-[![YouTube Video](https://github.com/user-attachments/assets/f166ee74-0fbe-42b5-8a94-da846e82e30a)](https://www.notion.so/tsemah/Audrey-II-Assembly-Tutorial-1736331933b8809f8412f94f634622a5?pvs=4)
+### Click the image below to watch the video tutorial:
+[![YouTube Video](https://github.com/user-attachments/assets/f166ee74-0fbe-42b5-8a94-da846e82e30a)](https://youtu.be/icYm5FpZtrU)
+https://youtu.be/icYm5FpZtrU
 
+
+### [🛠️ Build Guide](https://github.com/infrasonicaudio/audrey-ii-simple/wiki/Building-the-Audrey-II-Simple-Kit)
 
 ## Flashing the Daisy Seed
 
 The easiest way to program an assembled Audrey II is with a pre-built binary file.
 This does not require setting up the toolchain or compiling any code.
 
-1. Download the [latest `.bin` file](https://github.com/Synthux-Academy/simple-designer-instruments/raw/main/official/audrey-ii/audrey-ii-v2.bin).
+1. Download the [latest `.bin` file](https://github.com/Synthux-Academy/simple-designer-instruments/raw/main/official/audrey-ii/audrey-ii.bin).
 2. Go to the [Daisy Web Programmer](https://electro-smith.github.io/Programmer/) in Google Chrome
 3. Connect the Daisy Seed to your computer with a USB cable (double check that the cable you use actually carries data, not just power)
 4. Follow the Help instructions at the top to put the Daisy Seed into bootloader mode and connect it to the web programmer
