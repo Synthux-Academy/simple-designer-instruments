@@ -4,7 +4,7 @@ Audrey II is a droning horroscape generator instrument for the Daisy Seed + Synt
 based on simple physical modeling principles.
 
 # Latest Firmware
-https://github.com/Synthux-Academy/simple-designer-instruments/blob/main/official/audrey-ii/audrey-ii-v3.bin
+https://github.com/Synthux-Academy/simple-designer-instruments/raw/refs/heads/main/official/audrey-ii/audrey-ii-v3.bin
 
 <img src="https://github.com/user-attachments/assets/cb0d2e1b-73fd-4222-9e5a-a908479afa71" width="700">
 
