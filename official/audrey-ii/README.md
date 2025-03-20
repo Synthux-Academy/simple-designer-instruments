@@ -45,7 +45,7 @@ growing/saturating feedback, for creative distorted warping and warbling possibi
 https://youtu.be/icYm5FpZtrU
 
 
-### [🛠️ Build Guide](https://github.com/infrasonicaudio/audrey-ii-simple/wiki/Building-the-Audrey-II-Simple-Kit)
+### [🛠️ Build Guide](https://www.notion.so/tsemah/Audrey-II-Assembly-Tutorial-1736331933b8809f8412f94f634622a5?pvs=4)
 
 ## Flashing the Daisy Seed
 
