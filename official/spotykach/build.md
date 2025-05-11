@@ -159,7 +159,7 @@ Tip: toggle <img src="pic/serial_autoscroll.jpg" width="24px"/> to see live upda
 #### Switches 
   | Function          | Board       | Daisy           |
   |-------------------|-------------|-----------------|
-  | Pattern Mode A    | 03          | 49              |
+  | Pattern Mode A    | 03          | 45              |
   | Reverse A         | 24          | 05              |
   | Split Outputs     | 37          | 07              |
   | Mutex             | 42          | 08              |
