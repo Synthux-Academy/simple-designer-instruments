@@ -1,6 +1,6 @@
 ### 🏛️ This is an archived version for Simple platform. For Spotykach looping playground check [this repository](https://github.com/Synthux-Academy/Spotykach). 🏛️ 
 
-## Spotykach
+## Spotykach for Simple Designer
 
 #### A dual sampler and looper designed for dynamic rhythms, generative melodies and rich textures.
 In collaboration with [Roey Tsemah](https://www.linkedin.com/in/roeytsemah/?originalSubdomain=nl) and [Kasia Łukaszuk](https://www.instagram.com/kasia.luk._/) (UX & Interface Design).
