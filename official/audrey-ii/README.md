@@ -1,3 +1,5 @@
+### 🏛️ This is archive. Check dedicated [Audrey-II](https://github.com/Synthux-Academy/Audrey-II) repo for newer versions. 🏛️ 
+
 # Audrey II
 
 Audrey II is a droning horroscape generator instrument for the Daisy Seed + SynthUX Simple platform
