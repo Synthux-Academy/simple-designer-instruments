@@ -1,3 +1,5 @@
+### 🏛️ This is an archived version for Simple platform. For Spotykach looping playground check [this repository](https://github.com/Synthux-Academy/Spotykach). 🏛️ 
+
 ## Spotykach
 
 #### A dual sampler and looper designed for dynamic rhythms, generative melodies and rich textures.
